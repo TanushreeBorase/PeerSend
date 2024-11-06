@@ -44,7 +44,6 @@ To access and run your file transfer project, follow these step-by-step instruct
    - **Run the Python Script**:
      ```bash
      python server.py
-      python client.py
      ```
    - **Choose to Start as Server**:
      - When prompted, type `s` and press **Enter**.

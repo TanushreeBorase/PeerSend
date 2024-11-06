@@ -43,7 +43,8 @@ To access and run your file transfer project, follow these step-by-step instruct
    - **Navigate to the Project Directory** using `cd path/to/your/project`.
    - **Run the Python Script**:
      ```bash
-     python your_script_name.py
+     python server.py
+      python client.py
      ```
    - **Choose to Start as Server**:
      - When prompted, type `s` and press **Enter**.
@@ -55,7 +56,7 @@ To access and run your file transfer project, follow these step-by-step instruct
    - **Navigate to the Project Directory** using `cd path/to/your/project`.
    - **Run the Python Script**:
      ```bash
-     python your_script_name.py
+     python server.py
      ```
    - **Choose to Send a File**:
      - When prompted, type `f` and press **Enter**.
